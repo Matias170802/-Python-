@@ -1,0 +1,48 @@
+# Proyectos - Parte 1
+
+En esta primera etapa del curso hemos cubierto conceptos fundamentales como variables y tipos de datos, operadores y estructuras de control. Ahora es el momento de poner en práctica lo que hemos aprendido a través de algunos proyectos integradores. Se aceptan propuestas propias.
+
+## PROPUESTAS
+
+### Piedra, Papel o Tijeras
+
+Crear un programa que permita jugar al clásico juego piedra, papel o tijeras. El mismo debe pedir al usuario que ingrese su jugada, y utilizando la librería `random` generar una elección para la máquina. Luego debe mostrar el ganador y preguntar al usuario si desea volver a jugar.
+
+```python
+# alternativas para importar la librería
+from random import randint
+from random import *
+import random
+```
+
+### Ta-Te-Ti
+
+Construir un Ta-Te-Ti (tres en raya) que se juegue contra otro jugador. El usuario deberá indicar la posición en la que desea jugar su ficha. Deberán utilizar una matriz para simular el tablero de juego.
+
+### Adivina el número (juego)
+
+Crear un programa en el que el usuario deberá adivinar el número que la máquina escogió. Deben utilizar la librería `random` para generar la elección de la máquina. El usuario tendrá 5 vidas, cada vez que intente adivinar, recibirá como respuesta “El número es mayor” o “El número es menor” según corresponda, y perderá una vida. Ganará cuando logre adivinar el número elegido por la máquina.
+
+### Carrito de compras
+
+Diseñar un programa que simule un carrito de compras, el mismo debe contar con un menú que contenga las siguientes opciones:
+
+1. Agregar producto
+2. Eliminar producto
+3. Ver lista de compras
+4. Finalizar compra
+5. Salir
+
+Los productos disponibles son:
+
+Leche $50 - Galletas $35 - Gaseosa $87 - Huevos $66 - Aceite $110 - Pan $20
+
+Al finalizar la compra, debe “imprimirse” el ticket de compra, el cual contendrá la lista de productos y el precio final.
+
+### Batalla naval
+
+Crear un programa que permita jugar la batalla naval entre dos jugadores. Cada uno debe ubicar un barco que contiene 3 secciones. Luego cada jugador tira una bomba por turno indicando la posición en x y la posición en y. Si acierta, esa sección del barco queda destruida y se muestra un mensaje por pantalla. Gana el jugador que logre destruir el barco completo del rival.
+
+### **Cajero Automático**
+
+Diseñar un simulador de cajero automático, el mismo debe permitir ingresar dinero, retirar dinero, consultar saldo, hacer transferencia, y debe contener más de una cuenta permitiendo seleccionar desde cual se desea retirar. El mismo debe poseer una contraseña de acceso pedida al usuario al momento de iniciar el programa.

@@ -1,0 +1,7 @@
+**Instalar Playsound (solución)**
+
+`pip install wheel setuptools pip --upgrade`
+
+Use this command first, it will the setup tools and wheel, then run the following command:
+
+`py -m pip install playsound`

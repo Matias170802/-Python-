@@ -1,0 +1,65 @@
+[
+    {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes Saavedra",
+        "a\u00f1o_publicacion": 1605,
+        "disponible": true,
+        "unidades": 20
+    },
+    {
+        "titulo": "Ulises",
+        "autor": "James Joyce",
+        "a\u00f1o_publicacion": 1920,
+        "disponible": true,
+        "unidades": 20
+    },
+    {
+        "titulo": "En busca del tiempo perdido",
+        "autor": "Marcel Proust.",
+        "a\u00f1o_publicacion": 1914,
+        "disponible": true,
+        "unidades": 20
+    },
+    {
+        "titulo": "Cien a\u00f1os de soledad",
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "a\u00f1o_publicacion": 1967,
+        "disponible": true,
+        "unidades": 20
+    },
+    {
+        "titulo": "Moby Dick",
+        "autor": "Herman Melville",
+        "a\u00f1o_publicacion": 1851,
+        "disponible": true,
+        "unidades": 20
+    },
+    {
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "a\u00f1o_publicacion": 2006,
+        "disponible": true,
+        "unidades": 20
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "a\u00f1o_publicacion": 1949,
+        "disponible": true,
+        "unidades": 20
+    },
+    {
+        "titulo": "La Divina Comedia",
+        "autor": "Dante Alighieri",
+        "a\u00f1o_publicacion": 1472,
+        "disponible": true,
+        "unidades": 20
+    },
+    {
+        "titulo": "Los juegos del hambre",
+        "autor": "Suzanne Collins",
+        "a\u00f1o_publicacion": 2008,
+        "disponible": true,
+        "unidades": 20
+    }
+]

@@ -8,7 +8,6 @@ print("---------------------------------------------------------ADIVINA EL NUMER
 n2 = random.randint(1,99)
 
 for vidas in range(5,0,-1) :
-    print(n2)
     condicion = True
     print(f"Tienes {vidas - 1} vidas")
     while condicion:
